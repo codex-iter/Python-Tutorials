@@ -1,2 +1,2 @@
 # Python-Tutorials
-Python Tutorial files which are discussed in the class.
+Python Tutorial files which were discussed in the class.
