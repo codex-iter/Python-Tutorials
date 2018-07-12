@@ -6,6 +6,8 @@ Python Tutorial files which were discussed in the class.
 
 
 ## Resources
+[Awesome Python](https://github.com/vinta/awesome-python)
+
 [PyPI - Python Packaging Index](https://pypi.python.org/pypi)
 
 [Python Docs](https://www.python.org/doc/)
