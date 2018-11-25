@@ -1,7 +1,7 @@
 # Diving into string type data type
 name = "CODEX"
 print (name)            # prints the whole string
-print (name[1])         # prints the character os specific index, here "O"
+print (name[1])         # prints the character at specific index, here "1"
 print (name[1:3])       # prints the string from 1st index to 3rd i.e, 2nd character to 4th
 print (name[1:])        # prints the whole string from 1st index i.e, 2nd character to last
 print (name*2)          # prints the string 2 times
