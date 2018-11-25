@@ -5,7 +5,7 @@
                 executable statements
                 return
     
-    2. A function is called by simply writing the function name followed by parebthesis. Syntax:
+    2. A function is called by simply writing the function name followed by parenthesis. Syntax:
             function_name (passed_arguments)
 """
 
@@ -25,7 +25,7 @@ ans = add(2,3)
 print(" 2 + 3 =",ans)
 
 
-# A function that can catch unknown number of arguments and store it in form of a list
+# A function that can catch unknown number of arguments and store it in form of a tuple
 def many_args(*args):
     for i in args:
         print(i)
