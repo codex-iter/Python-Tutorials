@@ -4,16 +4,16 @@
 t1 = ()
 print (t1)
 
-t2 = [1,2,3,4,5]                    # tuple with number datatype
-t3 = ["codex" , "iter" , "python"]  # tuple with string datatype
-t4 = ["codex" , 25 , 50.25 , "iter"] # tuple with different datatype
+t2 = (1,2,3,4,5)                    # tuple with number datatype
+t3 = ("codex" , "iter" , "python")  # tuple with string datatype
+t4 = ("codex" , 25 , 50.25 , "iter") # tuple with different datatype
 
 print (t2)
 print (t3)
 print (t4)
 
 
-tupple = [10 , 20 , 30 , 40 , 50]
+tupple = (10 , 20 , 30 , 40 , 50)
 # printing tuples
 print (tupple)         #prints the whole tuples
 print (tupple[2])      #prints the 2nd index ,i.e, the 3rd element of the tuples
